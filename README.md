@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mahinathegreat
-- 👀 I’m interested in JavaScript and Node.js
-- I am a Software Developer
-- 💞️ I’m looking to collaborate on improving Js, Node and Electron. Currently learning TS, a bit of Python, React and soon PHP too
+- 👀 I’m interested in Js, Node, PHP, Phyton, Java, Go
+- I am a Software Developer and Public Relations expert.
+- 💞️ I’m looking to collaborate on improving my Js, Node and Electron. Currently learning TS, a bit of Python, React and soon PHP too
 - 📫 How to reach me ...
 
 <!---
