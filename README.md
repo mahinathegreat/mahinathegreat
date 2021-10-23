@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahinathegreat
 - 👀 I’m interested in JavaScript and Node.js
-- 🌱 I’m currently learning JavaScript & Node.js
+- I am a Software Developer
 - 💞️ I’m looking to collaborate on learning JS
 - 📫 How to reach me ...
 
